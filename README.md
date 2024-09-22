@@ -343,7 +343,9 @@ D-Link DIR-859 A1/A2 dedicated, baud rate 115200, reset button GPIO#2
 ### breed-tp9343.bin	
 TP9343, general purpose, baud rate 115200, reset key GPIO#1, WPS key GPIO#1
 
-- Note: The special version can light up all LEDs.
+
+
+# Note: The special version can light up all LEDs.
 
 The following is a special version that supports custom reset button GPIO
 file name	illustrate
